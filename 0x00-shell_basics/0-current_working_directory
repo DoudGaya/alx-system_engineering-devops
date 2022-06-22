@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x ./0-current_working_directory
+chmod u+x ./0-current_working_directory chmod ~/root/alx-system_engineering-devops/0x00-shell_basics
