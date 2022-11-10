@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-# alx school file checdker 
+# alx school file checker
+
 file="school"
 
 # checks if file exists
