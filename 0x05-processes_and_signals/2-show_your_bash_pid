@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# list all bash processes
+ps -auxf | grep bash
