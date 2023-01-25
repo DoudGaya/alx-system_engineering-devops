@@ -48,6 +48,6 @@ frontend  doud.tech-https-frontend
 
 backend doud.tech-backend
         balance roundrobin
-        server 93811-web-01 100.25.132.97:80 check
-        server 93811-web-02 3.84.238.112:80 check
+        server 93811-web-01 100.25.132.97:443 check
+        server 93811-web-02 3.84.238.112:443 check
 # end of parameters
