@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 7 -d 51 ../*
+chmod ugo+X ./*
